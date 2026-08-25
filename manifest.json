@@ -1,13 +1,12 @@
 {
   "name": "Quản lý CLB",
-  "short_name": "Quản lý CLB",
-  "description": "Hệ thống quản lý võ sinh - CLB",
-  "start_url": "./",
-  "scope": "./",
+  "short_name": "QL CLB",
+  "description": "Ứng dụng Quản lý CLB Taekwondo",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#1e40af",
-  "theme_color": "#1e40af",
   "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "logo.png",
